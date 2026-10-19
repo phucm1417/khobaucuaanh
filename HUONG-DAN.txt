@@ -1,0 +1,6 @@
+THƯ MỤC CHẠY KHÚC SÔNG CUA
+
+Mở index.html bằng trình duyệt để chạy game. Trang cũng có thể mở trực tiếp bằng khobau.html.
+File yeuem.m4a chứa lời nhắn được phát trong phần mở kho báu.
+
+Model cua đã được nhúng bên trong HTML. Trình duyệt cần kết nối Internet để tải thư viện Three.js từ CDN.
